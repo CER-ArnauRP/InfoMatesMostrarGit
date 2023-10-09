@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Prova : MonoBehaviour
 {
-    private float velocity = 5f;
+    private float velocity = 10f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -15,5 +16,6 @@ public class Prova : MonoBehaviour
     void Update()
     {
         // Movimiento del jugador
+        // Salt del jugador.
     }
 }
